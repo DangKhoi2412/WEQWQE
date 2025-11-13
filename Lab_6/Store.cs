@@ -56,5 +56,6 @@ namespace Lab_6
             else
                 bicycles = bicycles.OrderByDescending(b => b.Price).ToList();
         }
+        //DWEWEQE
     }
 }
